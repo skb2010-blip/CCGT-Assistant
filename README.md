@@ -9,6 +9,8 @@ CCGT Assistant provides tools for organising a Critical-Constructivist Grounded 
 
 > **Build and compatibility note:** This repository package contains the compiled plugin files (`main.js`, `manifest.json`, and `styles.css`), not the original TypeScript source project or build configuration. The features below describe the behaviour represented in this package. Canvas internals can change between Obsidian releases; test with a backup of your vault before relying on the plugin in a production research workflow.
 
+If you like this tool, I'm a lowly PhD student about to embark on my full CCGT study and will require all the caffeine. Buy me a coffee? https://paypal.me/KMorgan2010
+
 ## Contents
 
 - [Features](#features)
