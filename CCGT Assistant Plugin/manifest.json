@@ -1,0 +1,10 @@
+{
+  "id": "ccgt-assistant",
+  "name": "CCGT Assistant",
+  "version": "0.3.6",
+  "minAppVersion": "1.10.0",
+  "description": "CCGT research workflow tools with an integrated card-anchored Canvas colour selector, native colours, pencil swatches, and custom HEX/RGB picker.",
+  "author": "CCGT Assistant contributors",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
